@@ -1,6 +1,9 @@
 <resources>
-    <string name="app_name">E1_CalcularEdad</string>
+    <string name="app_name">Calcular Edad</string>
     <!-- TODO (2) Crear etiqueta para texto del label de nombre con valor "Nombre"  -->
+    <string name="titleViewCalculator">Calcular Edad</string>
     <!-- TODO (3) Crear etiqueta para valor del label de fecha de nacimiento con valor "Fecha de nacimiento"  -->
+
     <!-- TODO (4) Crear etiqueta para texto del boton con valor "Calcular edad"  -->
+     <string name="titleBottonCalculator" >Calcular</string>
 </resources>
