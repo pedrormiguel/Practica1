@@ -3,7 +3,7 @@
     <!-- TODO (2) Crear etiqueta para texto del label de nombre con valor "Nombre"  -->
     <string name="titleViewCalculator">Calcular Edad</string>
     <!-- TODO (3) Crear etiqueta para valor del label de fecha de nacimiento con valor "Fecha de nacimiento"  -->
-
+    <string name="hintOfText">Edad del usuario a mostrar</string>
     <!-- TODO (4) Crear etiqueta para texto del boton con valor "Calcular edad"  -->
      <string name="titleBottonCalculator" >Calcular</string>
 </resources>
